@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+v/ZpabN+5rFuANStNUAXRmQ7D51iRewG+WrN4BaALGl4ftXEe+/bpaVZO3BTGlk273a50zsRf9uRcl5xsFmQ==",
+  "success": true,
+  "projectFilePath": "d:\\Projeto2\\AppCadastro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
