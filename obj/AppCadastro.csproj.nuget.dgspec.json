@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projeto2\\AppCadastro.csproj": {}
+    "D:\\Projeto2\\AppCadastro.csproj": {}
   },
   "projects": {
-    "d:\\Projeto2\\AppCadastro.csproj": {
+    "D:\\Projeto2\\AppCadastro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projeto2\\AppCadastro.csproj",
+        "projectUniqueName": "D:\\Projeto2\\AppCadastro.csproj",
         "projectName": "AppCadastro",
-        "projectPath": "d:\\Projeto2\\AppCadastro.csproj",
+        "projectPath": "D:\\Projeto2\\AppCadastro.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "d:\\Projeto2\\obj\\",
+        "outputPath": "D:\\Projeto2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

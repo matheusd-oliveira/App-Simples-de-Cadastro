@@ -1,0 +1,15 @@
+D:\Projeto2\bin\Debug\net6.0\AppCadastro.exe
+D:\Projeto2\bin\Debug\net6.0\AppCadastro.deps.json
+D:\Projeto2\bin\Debug\net6.0\AppCadastro.runtimeconfig.json
+D:\Projeto2\bin\Debug\net6.0\AppCadastro.dll
+D:\Projeto2\bin\Debug\net6.0\AppCadastro.pdb
+D:\Projeto2\obj\Debug\net6.0\AppCadastro.csproj.AssemblyReference.cache
+D:\Projeto2\obj\Debug\net6.0\AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto2\obj\Debug\net6.0\AppCadastro.AssemblyInfoInputs.cache
+D:\Projeto2\obj\Debug\net6.0\AppCadastro.AssemblyInfo.cs
+D:\Projeto2\obj\Debug\net6.0\AppCadastro.csproj.CoreCompileInputs.cache
+D:\Projeto2\obj\Debug\net6.0\AppCadastro.dll
+D:\Projeto2\obj\Debug\net6.0\refint\AppCadastro.dll
+D:\Projeto2\obj\Debug\net6.0\AppCadastro.pdb
+D:\Projeto2\obj\Debug\net6.0\AppCadastro.genruntimeconfig.cache
+D:\Projeto2\obj\Debug\net6.0\ref\AppCadastro.dll
